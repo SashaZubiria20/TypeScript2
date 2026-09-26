@@ -1,13 +1,37 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>typescript2</title>
-  </head>
-  <body>
-    
-    <script type="module" src="/src/main.ts"></script>
-  </body>
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Aprendiendo TypeScript 2</title>
+        <link rel="stylesheet" href="./src/style.css">
+    </head>
+    <body>
+        <header>
+            <h1>Aprendiendo TypeScript 2</h1>
+        </header>
+
+        <main id="contenedorPrincipal">
+        <!-- Aquí inyectaremos los temas dinámicamente -->
+            <section class="bloqueTema">
+                <h2 id="tituloTema">Nombre del Tema</h2>
+            
+                <div class="contenedorEjercicios">
+                    <article class="seccionUdemy">
+                        <h3>Clase</h3>
+                        <div id="resultadoUdemy"></div>
+                    </article>
+
+                    <article class="seccionPractica">
+                        <h3>Ejercicio de Práctica</h3>
+                        <div id="resultadoEjercicio"></div>
+                    </article>
+                </div>
+            </section>
+        </main>
+
+        <script type="module" src="/src/main.ts"></script>
+    </body>
 </html>
+
