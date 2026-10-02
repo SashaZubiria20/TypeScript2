@@ -109,7 +109,7 @@ console.log(numbers3);
 
 
 /******/
-// Tuples - Tuplas: Se definen los tipos de datos que en cada posicion
+// Tuples - Tuplas: Se definen los tipos de datos que lleva en cada posicion
 const hero: [string, number] = ['Dr Strange', 100];
 // hero[0] = 50;
 hero[1] = 50;
