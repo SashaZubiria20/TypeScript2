@@ -4,4 +4,6 @@
 // import './bases/funciones/parametrosOpcionales';
 // import './bases/funciones/parametrosPorDefecto';
 // import './bases/funciones/parametroRest';
-import './bases/funciones/tipoFuncion';
+// import './bases/funciones/tipoFuncion';
+// import './bases/objetos/objetosLiterales';
+import './bases/objetos/tipos';

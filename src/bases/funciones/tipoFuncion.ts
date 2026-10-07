@@ -1,4 +1,4 @@
-// Tipos de funciones
+// Tipos de dato funcion
 
 
 /*
