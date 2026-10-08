@@ -6,4 +6,7 @@
 // import './bases/funciones/parametroRest';
 // import './bases/funciones/tipoFuncion';
 // import './bases/objetos/objetosLiterales';
-import './bases/objetos/tipos';
+// import './bases/objetos/tipos';
+// import './bases/objetos/tiposMultiples';
+// import './bases/ES6/desestructuracionObjetos';
+import './bases/ES6/desestructuracionArray';
