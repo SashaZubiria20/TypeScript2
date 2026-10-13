@@ -9,4 +9,5 @@
 // import './bases/objetos/tipos';
 // import './bases/objetos/tiposMultiples';
 // import './bases/ES6/desestructuracionObjetos';
-import './bases/ES6/desestructuracionArray';
+// import './bases/ES6/desestructuracionArray';
+import './bases/Clases/clases';
