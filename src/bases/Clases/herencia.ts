@@ -5,7 +5,7 @@
     - extends: Es la palabra reservada para crear una clase hija que hereda de una clase padre. Establece la relación de "es un".
 
     - super(): Es la llamada obligatoria al constructor del padre. Es la forma en que la clase hija "enciende" primero la parte del padre antes de empezar a trabajar con su propia lógica.
-    
+
     - Herencia: Es el mecanismo que permite que Xmen reutilice todo el código, propiedades y métodos (getFullname) de Avenger, sin tener que reescribirlo.
 */
 
@@ -34,7 +34,6 @@ class Xmen extends Avenger {
         this.isMutant = isMutant;
     }
 
-    //
     getFullnameDesdeXmen () {
         return super.getFullname();
     }
