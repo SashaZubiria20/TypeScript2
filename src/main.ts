@@ -12,4 +12,5 @@
 // import './bases/ES6/desestructuracionArray';
 // import './bases/Clases/clases';
 // import './bases/Clases/clases2';
-import './bases/Clases/metodos';
+// import './bases/Clases/metodos';
+import './bases/Clases/herencia';
