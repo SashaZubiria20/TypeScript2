@@ -14,4 +14,5 @@
 // import './bases/Clases/clases2';
 // import './bases/Clases/metodos';
 // import './bases/Clases/herencia';
-import './bases/Clases/getYset';
+// import './bases/Clases/getYset';
+import './bases/Clases/clasesAbstractas';
