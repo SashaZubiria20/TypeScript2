@@ -15,4 +15,5 @@
 // import './bases/Clases/metodos';
 // import './bases/Clases/herencia';
 // import './bases/Clases/getYset';
-import './bases/Clases/clasesAbstractas';
+// import './bases/Clases/clasesAbstractas';
+import './bases/Clases/constructorPrivado';
