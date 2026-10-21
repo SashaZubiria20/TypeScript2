@@ -60,14 +60,14 @@ console.log(pablo);
 
 // Ejercicio
 /**
- * Ejercicio: Usuarios y Administradores
- * Objetivo: Practicar la extensión de interfaces.
- * Pasos:
- * 1. Crear interface 'Usuario' con 'nombre' y 'email'.
- * 2. Crear interface 'Administrador' que 'extends Usuario'.
- * 3. Añadir a 'Administrador' la propiedad 'nivel' (number).
- * 4. Crear un objeto 'admin' de tipo 'Administrador' con los datos requeridos.
- * 5. Mostrar el objeto en consola.
+    * Ejercicio: Usuarios y Administradores
+    * Objetivo: Practicar la extensión de interfaces.
+    * Pasos:
+    * 1. Crear interface 'Usuario' con 'nombre' y 'email'.
+    * 2. Crear interface 'Administrador' que 'extends Usuario'.
+    * 3. Añadir a 'Administrador' la propiedad 'nivel' (number).
+    * 4. Crear un objeto 'admin' de tipo 'Administrador' con los datos  requeridos.
+    * 5. Mostrar el objeto en consola.
  */
 
 interface Usuario {

@@ -17,4 +17,5 @@
 // import './bases/Clases/getYset';
 // import './bases/Clases/clasesAbstractas';
 // import './bases/Clases/constructorPrivado';
-import './bases/interfaz/interface';
+// import './bases/interfaz/interface';
+import './bases/interfaz/complejas';
