@@ -18,4 +18,6 @@
 // import './bases/Clases/clasesAbstractas';
 // import './bases/Clases/constructorPrivado';
 // import './bases/interfaz/interface';
-import './bases/interfaz/complejas';
+// import './bases/interfaz/complejas';
+// import './bases/interfaz/metodos';
+import './bases/interfaz/clases';

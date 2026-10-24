@@ -4,7 +4,6 @@
     Son como los tipos, al crear una interface definimos como queremos que sean nuestros objetos.
     La unica diferencia es que los tipos no son expansibles, las interfaces si
 
-
     Son muy similares a los type (tipos personalizados), pero tienen una gran ventaja: son expandibles (o abiertas). Esto se llama Declaration Merging (fusión de declaraciones).
 
         - Si defines un type Hero y luego intentas definir otro type Hero en otro archivo, TypeScript te dará un error de "nombre duplicado".
