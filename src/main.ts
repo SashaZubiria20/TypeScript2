@@ -21,4 +21,5 @@
 // import './bases/interfaz/complejas';
 // import './bases/interfaz/metodos';
 // import './bases/interfaz/clases';
-import './bases/interfaz/funciones';
+// import './bases/interfaz/funciones';
+import './bases/nameSpaces/validations';
