@@ -20,4 +20,5 @@
 // import './bases/interfaz/interface';
 // import './bases/interfaz/complejas';
 // import './bases/interfaz/metodos';
-import './bases/interfaz/clases';
+// import './bases/interfaz/clases';
+import './bases/interfaz/funciones';
