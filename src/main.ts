@@ -23,4 +23,5 @@
 // import './bases/interfaz/clases';
 // import './bases/interfaz/funciones';
 // import './bases/Modulos/nameSpaces/validations';
-import './bases/Modulos/Clases/instanciaHero';
+// import './bases/Modulos/Impor-Export/instanciaHero';
+import './bases/Modulos/ImportDefect/powersI';
