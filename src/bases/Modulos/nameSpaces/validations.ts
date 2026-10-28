@@ -1,10 +1,10 @@
 // NameSpace
 
 /*
-    Ya casi no se usan, pero se solian usar para librerias, se cometa porque ts arroja error
+    Ya casi no se usan, pero se solian usar para librerias, se comenta porque ts arroja error
 */
 
-
+/*
 namespace Validations {
     export const validateText = (text:string): boolean => {
         if(text.length>3){
@@ -20,3 +20,4 @@ namespace Validations {
 }
 
 console.log(Validations.validateText('Sas'))
+*/

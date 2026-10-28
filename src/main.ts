@@ -22,4 +22,5 @@
 // import './bases/interfaz/metodos';
 // import './bases/interfaz/clases';
 // import './bases/interfaz/funciones';
-import './bases/nameSpaces/validations';
+// import './bases/Modulos/nameSpaces/validations';
+import './bases/Modulos/Clases/instanciaHero';
