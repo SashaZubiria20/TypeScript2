@@ -17,6 +17,9 @@
 /**** Funciones ****/
 
 import { printObject, genericFunction, genericFunctionArrow } from "./funciones";
+import type { Hero } from "./interface";
+import type { Villain } from "./interface";
+import type { Respuesta } from "./interface";
 
 
 printObject(123);
@@ -60,3 +63,26 @@ const obtenerPrimerElemento = <T> (lista:T[]) => {
 
 console.log(obtenerPrimerElemento(numeros));
 console.log(obtenerPrimerElemento(nombres));
+
+
+
+/**** Interfaces ****/
+
+const deadpool = {
+    name: 'Deadpool',
+    realName: 'Wade Winston Wilson',
+    dangerLevel: 130
+}
+
+console.log(genericFunctionArrow<Hero>(deadpool).realName);
+
+const res1:Respuesta<number> = {
+    datos:123
+}
+console.log(res1.datos);
+
+
+const res2:Respuesta<string> = {
+    datos: 'Hola'
+}
+console.log(res2.datos);
