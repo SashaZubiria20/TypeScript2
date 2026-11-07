@@ -26,4 +26,6 @@
 // import './bases/Modulos/Impor-Export/instanciaHero';
 // import './bases/Modulos/ImportDefect/powersI';
 // import './bases/Genericos/genericos';
-import './bases/Genericos/peticiones/axios';
+// import './bases/Genericos/peticiones/axios';
+// import './bases/Decoradores/decoradoresDeClases';
+import './bases/Decoradores/decoradoresDeClases2';

@@ -18,4 +18,8 @@ getPokemon(4)
     - La recompensa (Autocompletado): Al escribir pokemon.sprites.front_default, el editor ayudó. Eso no es magia, es seguridad de tipos. Si en el futuro la API cambia y el campo se llama frontDefault (sin guion bajo), TypeScript me va a marcar el error en rojo inmediatamente, evitándote que la página web se rompa en producción.
 
     *QuickType: traduce la respuesta cruda de la API a interfaces de TypeScript en un segundo. Es una herramienta de productividad estándar en la industria.
+
+    No hace falta ir a la web, podemos usar la extension paste JSON as Code de QuickType
+    Para usarla, en el archivo donde queremos crear la interface abrimos la barra de comandos (ctrol + shift + P) buscamos la extencion - enter - ponemos el nombre - enter
+    Esto crea la interface automaticamente
 */
