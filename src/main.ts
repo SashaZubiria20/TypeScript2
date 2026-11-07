@@ -28,4 +28,6 @@
 // import './bases/Genericos/genericos';
 // import './bases/Genericos/peticiones/axios';
 // import './bases/Decoradores/decoradoresDeClases';
-import './bases/Decoradores/decoradoresDeClases2';
+// import './bases/Decoradores/decoradoresDeClases2';
+import './bases/Decoradores/factoryDecorators';
+import './bases/Decoradores/factoryDecorators2';
