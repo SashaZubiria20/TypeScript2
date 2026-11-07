@@ -25,4 +25,5 @@
 // import './bases/Modulos/nameSpaces/validations';
 // import './bases/Modulos/Impor-Export/instanciaHero';
 // import './bases/Modulos/ImportDefect/powersI';
-import './bases/Genericos/genericos';
+// import './bases/Genericos/genericos';
+import './bases/Genericos/peticiones/axios';
