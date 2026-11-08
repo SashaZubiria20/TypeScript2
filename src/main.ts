@@ -31,5 +31,7 @@
 // import './bases/Decoradores/decoradoresDeClases2';
 // import './bases/Decoradores/factoryDecorators';
 // import './bases/Decoradores/factoryDecorators2';
- import './bases/Decoradores/decoradorEjemplo';
- import './bases/Decoradores/decoradorEjemplo2';
+// import './bases/Decoradores/decoradorEjemplo';
+// import './bases/Decoradores/decoradorEjemplo2';
+import './bases/Decoradores/decoradoresDeMetodos';
+import './bases/Decoradores/decoradoresDeMetodos2';
