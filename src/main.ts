@@ -29,5 +29,7 @@
 // import './bases/Genericos/peticiones/axios';
 // import './bases/Decoradores/decoradoresDeClases';
 // import './bases/Decoradores/decoradoresDeClases2';
-import './bases/Decoradores/factoryDecorators';
-import './bases/Decoradores/factoryDecorators2';
+// import './bases/Decoradores/factoryDecorators';
+// import './bases/Decoradores/factoryDecorators2';
+ import './bases/Decoradores/decoradorEjemplo';
+ import './bases/Decoradores/decoradorEjemplo2';
