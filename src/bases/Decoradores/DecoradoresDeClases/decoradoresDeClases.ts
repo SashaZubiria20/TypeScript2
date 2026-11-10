@@ -1,5 +1,7 @@
 // Decoradores de Clases
 
+
+// Creamos un decorador para la clase que nos permita imprimir su estructura al transpilar
 function printToConsole(constructor:Function){
     console.log(constructor)
 }

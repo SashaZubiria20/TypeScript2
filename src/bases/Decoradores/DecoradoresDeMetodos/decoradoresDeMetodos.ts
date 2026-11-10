@@ -29,11 +29,14 @@ const bloquearPrototipo = function (constructor: Function) {
 }
 
 
-// Este decorador nos permitiria validar que el pokemos podria estar entre un rango
+// Este decorador nos permitiria validar que el pokemon este entre un rango, cuando el decorador es para un metodo, puede recibir por parametro (target, propertyKey y descriptor)
 function checkValidPokemonId(){
     return function(target:any, propertyKey:string, descriptor: PropertyDescriptor){
 
         const originalMethod = descriptor.value;
+
+        console.log(target);
+        console.log(propertyKey);
 
         descriptor.value = (id: number) => {
             if(id<1 || id>800){

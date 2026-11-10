@@ -14,7 +14,7 @@ const printToConsoleConditional = (print:boolean = false):Function => {
     }
 }
 
-@printToConsoleConditional(true)
+@printToConsoleConditional(false)
 export class Pokemon2 {
     public publicApi:string = 'https://pokeapi.co';
     public name:string;
